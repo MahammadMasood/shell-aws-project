@@ -5,7 +5,7 @@ This project helps in understanding **AWS CLI**, **Linux shell scripting**, and 
 
 ---
 
-## 🚀 Features
+##  Features
 
 This script can list the following AWS resources:
 
@@ -27,14 +27,14 @@ This script can list the following AWS resources:
 
 Before running the script, make sure:
 
-- ✅ AWS CLI is installed  
-- ✅ AWS CLI is configured (`aws configure`)  
-- ✅ You have proper IAM permissions  
-- ✅ Bash shell environment (Linux / Ubuntu)
+-  AWS CLI is installed  
+-  AWS CLI is configured (`aws configure`)  
+-  You have proper IAM permissions  
+-  Bash shell environment (Linux / Ubuntu)
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repository:
 
