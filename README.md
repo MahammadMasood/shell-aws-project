@@ -19,9 +19,7 @@ This script can list the following AWS resources:
 - IAM Users  
 - CloudFront Distributions  
 - CloudWatch Alarms  
-- CloudFormation Stacks  
-- SNS Topics  
-- SQS Queues  
+- CloudFormation Stacks 
 
 ---
 
